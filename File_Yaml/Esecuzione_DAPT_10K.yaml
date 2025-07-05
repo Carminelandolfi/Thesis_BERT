@@ -1,0 +1,9 @@
+tokenizer_name: "bert-base-uncased"
+model_path: "/content/drive/MyDrive/Thesis_Carmine_Landolfi/Modelli/models--bert-base-uncased/snapshots/86b5e0934494bd15c9632b12f734a8a67f723594"
+batch_size: 16
+epochs: 2
+learning_rate: 0.00002
+checkpoint_dir: "../checkpoints"
+checkpoint_interval: 2
+data_path: "/content/drive/MyDrive/Thesis_Carmine_Landolfi/Dataset/dataset_10k.csv"
+
